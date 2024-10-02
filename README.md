@@ -18,36 +18,27 @@ We conducted extensive preprocessing to build the main dataset. This dataset wer
 
 
 ### Cities current status
-
+<br><br>
 
 ![Alt text](utils/General_analysis_Dashboard.png)
 <br><br>
-<br><br>
-
-
 As we can see in the picture there are some slicers at the bottom so make easier to explore de data
 
 There are also Kpis that modify their values where we navigate through data
 
 <br><br>
 
-
-
 ### Shops current status
 <br><br>
 
 ![Alt text](utils/stores_analysis.png)
-
 <br><br>
 
 ### Products behavior
-
 <br><br>
 
 ![Alt text](utils/product_analysisII.png)
-
 <br><br>
-
 we tried to identify behavior of products before clustering
 
 <br><br>
