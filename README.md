@@ -21,35 +21,44 @@ We conducted extensive preprocessing to build the main dataset. This dataset wer
 
 
 ![Alt text](utils/General_analysis_Dashboard.png)
+<br><br>
+<br><br>
 
 
 As we can see in the picture there are some slicers at the bottom so make easier to explore de data
 
 There are also Kpis that modify their values where we navigate through data
 
+<br><br>
+
 
 
 ### Shops current status
-
+<br><br>
 
 ![Alt text](utils/stores_analysis.png)
 
+<br><br>
 
 ### Products behavior
 
+<br><br>
 
 ![Alt text](utils/product_analysisII.png)
 
+<br><br>
 
 we tried to identify behavior of products before clustering
 
+<br><br>
 
 ![Alt text](utils/product_analysis.png)
 
+<br><br>
 
 In this table we can see top 20 of best income products. Some of them arrived later than others
 
-
+<br><br>
 
 ## Sprint 2: Clustering 
 
@@ -58,36 +67,37 @@ In addition, we created clear and insightful visualizations that helped us bette
 
 
 ### Cluster overview
-
+<br><br>
 
 ![Alt text](utils/cluster.png)
 
-
+<br><br>
 
 ### Cluster groups
-
+<br><br>
 
 ![Alt text](utils/cluster_groups.png)
 
-
+<br><br>
 
 ## Sprint 3: Predictive Modeling
 
 We developed a comprehensive visual report to highlight the key insights derived from our data analysis. After evaluating various forecasting models, including ARIMA and skforecast from Sklearn, we selected the most accurate and appropriate approach for the business. Using the chosen model, we implemented sales forecasts to support future planning.
 
+<br><br>
 
 ### Income forecasting
-
+<br><br>
 
 ![Alt text](utils/income_forecasting.png)
 
-
+<br><br>
 
 ### supply_forecasting
-
+<br><br>
 
 ![Alt text](utils/supply_forecasting.png)
-
+<br><br>
 
 
 ## Results:
