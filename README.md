@@ -17,24 +17,21 @@ We began with data cleaning and a thorough analysis of the datasets, gaining an 
 We conducted extensive preprocessing to build the main dataset. This dataset were utilized to develop visualizations that provide a comprehensive view of the company's current status, highlighting the behavior of cities, stores, products, and their categories. 
 
 
-### Cities current status
+### * Cities current status
 <br><br>
-
 ![Alt text](utils/General_analysis_Dashboard.png)
 <br><br>
 As we can see in the picture there are some slicers at the bottom so make easier to explore de data
 
 There are also Kpis that modify their values where we navigate through data
 
-### Shops current status
+### * Shops current status
 <br><br>
-
 ![Alt text](utils/stores_analysis.png)
 <br><br>
 
-### Products behavior
-
-
+### * Products behavior
+<br><br>
 ![Alt text](utils/product_analysisII.png)
 <br><br>
 we tried to identify behavior of products before clustering
@@ -42,7 +39,7 @@ we tried to identify behavior of products before clustering
 
 ![Alt text](utils/product_analysis.png)
 <br><br>
-In this table we can see top 20 of best income products. Some of them arrived later than others
+In this table we can see top 20 of best income products. Some of them arrived later than others. The slicers help us to navigate throgh data
 
 ## Sprint 2: Clustering 
 
@@ -50,11 +47,11 @@ We applied clustering techniques, specifically the K-means algorithm, to identif
 In addition, we created clear and insightful visualizations that helped us better understand the behavior and composition of these clusters
 
 
-### Cluster overview
+### * Cluster overview
 <br><br>
 ![Alt text](utils/cluster.png)
 
-### Cluster groups
+### * Cluster groups
 <br><br>
 ![Alt text](utils/cluster_groups.png)
 
@@ -63,11 +60,11 @@ In addition, we created clear and insightful visualizations that helped us bette
 We developed a comprehensive visual report to highlight the key insights derived from our data analysis. After evaluating various forecasting models, including ARIMA and skforecast from Sklearn, we selected the most accurate and appropriate approach for the business. Using the chosen model, we implemented sales forecasts to support future planning.
 
 
-### Income forecasting
+### * Income forecasting
 <br><br>
 ![Alt text](utils/income_forecasting.png)
 
-### supply_forecasting
+### * supply forecasting
 <br><br>
 ![Alt text](utils/supply_forecasting.png)
 
