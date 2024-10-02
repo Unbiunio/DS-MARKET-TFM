@@ -18,7 +18,7 @@ We conducted extensive preprocessing to build the main dataset. This dataset wer
 
 
 ### Cities current status
-
+<br><br>
 
 ![Alt text](utils/General_analysis_Dashboard.png)
 <br><br>
@@ -27,7 +27,7 @@ As we can see in the picture there are some slicers at the bottom so make easier
 There are also Kpis that modify their values where we navigate through data
 
 ### Shops current status
-
+<br><br>
 
 ![Alt text](utils/stores_analysis.png)
 <br><br>
@@ -52,12 +52,10 @@ In addition, we created clear and insightful visualizations that helped us bette
 
 ### Cluster overview
 <br><br>
-
 ![Alt text](utils/cluster.png)
 
 ### Cluster groups
 <br><br>
-
 ![Alt text](utils/cluster_groups.png)
 
 ## Sprint 3: Predictive Modeling
@@ -67,12 +65,10 @@ We developed a comprehensive visual report to highlight the key insights derived
 
 ### Income forecasting
 <br><br>
-
 ![Alt text](utils/income_forecasting.png)
 
 ### supply_forecasting
 <br><br>
-
 ![Alt text](utils/supply_forecasting.png)
 
 
