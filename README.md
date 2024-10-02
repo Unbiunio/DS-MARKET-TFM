@@ -1,32 +1,49 @@
-# DS-MARKET 
 
-This project is the final result of my journey to become Data Scientist. Here, we present a deliverable solution for managing the products of their stores of a company according to its requets.
+# DS-MARKET
 
-Requirements:
-- To analize the state of each store, the sales trends of the products, and their evolution,possibly by Country.
-- Identify similar groups of products; how many exist?
-- Forecast of sales.
-- Forecast inventory supply.
+This project represents the final result of my journey to becoming a Data Scientist. Here, I present a comprehensive solution for managing the products across the stores of a company, addressing their specific requests and business needs.
 
-## Sprint 1
+## Objectives:
+* Analyze the state of each store, identifying sales trends of products and their evolution, sliced by country and other key factors.
+* Detect and group similar products to understand how many groups exist and what they represent.
+* Provide accurate forecasts of future sales.
+* Forecast inventory demand to ensure optimal supply levels.
+* In addition to these objectives, we aim to develop comprehensive visualizations that effectively communicate the analysis conducted, ensuring that insights are clearly   understood and actionable for decision-makers
 
-1. We received 3 datasets with information of company(__item_prices__, __item_sales__, __daily_calendar_with_events__)
-2. Check and clean the datasets, understand the variables and analyze the data.(Worked with `python`  using libraries like `numpy`,`pandas`,`matplotlib`,`seaborn` inside of `Visual Studio Code` y `Jupiter notebooks`)
-3. Preprocessing to build the main dataset; here we created a dataset to show the visualization report and other dataset for clustering.
+## Sprint 1: Data Exploration and Preparation
 
-## Sprint 2
+We received three key datasets containing company information: (item_prices, item_sales, and daily_calendar_with_events).
+We began with data cleaning and a thorough analysis of the datasets, gaining an understanding of the variables and their structure. We used tools such as Python alongside libraries like "like `numpy`,`pandas`,`matplotlib`,`seaborn`  in development environments like `Visual Studio Code` & `Jupiter notebooks`.
+We conducted extensive preprocessing to build the main dataset. This dataset were utilized to develop visualizations that provide a comprehensive view of the company's current state, highlighting the behavior of cities, stores, products, and their categories. 
 
-1. Worked in clustering. Used `K-means`.
-2. Choosed the correct model for prediction, `ARIMA` vs `skforecast` of `Sklearn`.
+![Alt text](utils/General_analysis_Dashboard.png)
 
-## Sprint 3
+## Sprint 2: Clustering 
 
-1. Worked in visualization report.
-2. Make prediction with model choose.
-3. Worked in storytelling about results.
+We applied clustering techniques, specifically the K-means algorithm, to identify groups of similar products.
+In addition, we created clear and insightful visualizations that helped us better understand the behavior and composition of these clusters
 
-## Results
+![Alt text](utils/General_analysis_Dashboard.png)
 
-We develop a dashboard report in `Power Bi` showing the stores´ behavior and busines. 
 
-![Alt text](utils/Dashboard_general.png)
+## Sprint 3: Predictive Modeling
+
+We developed a comprehensive visual report to highlight the key insights derived from our data analysis. After evaluating various forecasting models, including ARIMA and skforecast from Sklearn, we selected the most accurate and appropriate approach for the business. Using the chosen model, we implemented sales forecasts to support future planning.
+
+![Alt text](utils/General_analysis_Dashboard.png)
+
+
+
+## Results:
+
+Through this project, we achieved:
+
+Clear identification of well-defined product clusters, providing greater clarity on consumption trends.
+Accurate sales forecasts that enable efficient product supply planning.
+We crafted a storytelling narrative that clearly and effectively communicates the results, emphasizing their relevance for strategic decision-making in the company.
+
+We develop a dashboard report in `Power Bi` showing the stores behavior and busines. 
+
+
+
+As we can see in the picture there are some slicers at the bottom so make easier to explore de data
