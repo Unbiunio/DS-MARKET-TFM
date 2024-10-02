@@ -19,44 +19,69 @@ We conducted extensive preprocessing to build the main dataset. This dataset wer
 
 ### Cities current status
 
+
 ![Alt text](utils/General_analysis_Dashboard.png)
+
+
 As we can see in the picture there are some slicers at the bottom so make easier to explore de data
 
 There are also Kpis that modify their values where we navigate through data
 
 
+
 ### Shops current status
+
 
 ![Alt text](utils/stores_analysis.png)
 
 
 ### Products behavior
 
-![Alt text](utils/product_analyisII.png)
 
-![Alt text](utils/product_analyis.png)
+![Alt text](utils/product_analysisII.png)
+
+
+we tried to identify behavior of products before clustering
+
+
+![Alt text](utils/product_analysis.png)
+
+
+In this table we can see top 20 of best income products. Some of them arrived later than others
+
+
 
 ## Sprint 2: Clustering 
 
 We applied clustering techniques, specifically the K-means algorithm, to identify groups of similar products.
 In addition, we created clear and insightful visualizations that helped us better understand the behavior and composition of these clusters
 
+
 ### Cluster overview
+
 
 ![Alt text](utils/cluster.png)
 
+
+
 ### Cluster groups
 
+
 ![Alt text](utils/cluster_groups.png)
+
 
 
 ## Sprint 3: Predictive Modeling
 
 We developed a comprehensive visual report to highlight the key insights derived from our data analysis. After evaluating various forecasting models, including ARIMA and skforecast from Sklearn, we selected the most accurate and appropriate approach for the business. Using the chosen model, we implemented sales forecasts to support future planning.
 
+
 ### Income forecasting
 
+
 ![Alt text](utils/income_forecasting.png)
+
+
 
 ### supply_forecasting
 
@@ -73,7 +98,7 @@ Clear identification of well-defined product clusters, providing greater clarity
 Accurate sales forecasts that enable efficient product supply planning.
 We crafted a storytelling narrative that clearly and effectively communicates the results, emphasizing their relevance for strategic decision-making in the company.
 
-We develop a dashboard report in `Power Bi` showing the stores behavior and busines. 
+ 
 
 
 
