@@ -59,8 +59,19 @@ Ring charts were used to analyze the category composition of each cluster, focus
 <br><br>
 ![Alt text](utils/cluster_groups.png)
 
-## Sprint 3: Predictive Modeling
+This slide presents a bar chart displaying the 4 clusters based on their average price and the revenue they generate. The comparison clearly highlights the differences in price ranges and income levels among the clusters.
 
+Alongside, there's a table summarizing the key metrics for each group, with columns for: Articles, Min Price, Max Price, Units Sold, and Revenue.
+
+Hormiga Products: Represent 1,914 out of 3,049 total products, with low prices but high sales volume, generating around €102M off €230M in revenue.
+
+Estandard Products: This group consists of 887 items, featuring mid to high prices, contributing €59M 
+
+Estrella Products: 88 products in this cluster have average prices and strong sales, producing €48M.
+
+Premium Products: With very high prices and lower sales volumes, this group comprises fewer items but still generates €21.5M of the total revenue.
+
+## Sprint 3: Predictive Modeling
 We developed a comprehensive visual report to highlight the key insights derived from our data analysis. After evaluating various forecasting models, including ARIMA and skforecast from Sklearn, we selected the most accurate and appropriate approach for the business. Using the chosen model, we implemented sales forecasts to support future planning.
 
 
