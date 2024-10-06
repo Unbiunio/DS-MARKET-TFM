@@ -51,6 +51,10 @@ In addition, we created clear and insightful visualizations that helped us bette
 <br><br>
 ![Alt text](utils/cluster.png)
 
+The scatter plot illustrates the 4 clusters, where each point represents a product, positioned according to its sales (X-axis) and income (Y-axis). This allows us to identify different performance patterns across products.
+
+Ring charts were used to analyze the category composition of each cluster, focusing on Supermarket, Home and Garden, and Accessories. These charts reveal the proportion of each category in each cluster, helping us understand product behavior and category trends.
+
 ### * Cluster groups
 <br><br>
 ![Alt text](utils/cluster_groups.png)
