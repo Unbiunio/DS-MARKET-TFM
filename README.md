@@ -8,13 +8,13 @@ This project represents the final result of my journey to becoming a Data Scient
 * Detect and group similar products to understand how many groups exist and what they represent.
 * Provide accurate forecasts of future sales.
 * Forecast inventory demand to ensure optimal supply levels.
-* In addition to these objectives, we aim to develop comprehensive visualizations that effectively communicate the analysis conducted, ensuring that insights are clearly   understood and actionable for decision-makers
+* In addition to these objectives, I aim to develop comprehensive visualizations that effectively communicate the analysis conducted, ensuring that insights are clearly   understood and actionable for decision-makers
 
 ## Sprint 1: Data Exploration and Preparation
 
-We received three key datasets containing company information: (item_prices, item_sales, and daily_calendar_with_events).
-We began with data cleaning and a thorough analysis of the datasets, gaining an understanding of the variables and their structure. We used tools such as Python alongside libraries like "like `numpy`,`pandas`,`matplotlib`,`seaborn`  in development environments like `Visual Studio Code` & `Jupiter notebooks`.
-We conducted extensive preprocessing to build the main dataset. This dataset were utilized to develop visualizations that provide a comprehensive view of the company's current status, highlighting the behavior of cities, stores, products, and their categories. 
+I received three key datasets containing company information: (item_prices, item_sales, and daily_calendar_with_events).
+I began with data cleaning and a thorough analysis of the datasets, gaining an understanding of the variables and their structure. I used tools such as Python alongside libraries like "like `numpy`,`pandas`,`matplotlib`,`seaborn`  in development environments like `Visual Studio Code` & `Jupiter notebooks`.
+I conducted extensive preprocessing to build the main dataset. This dataset were utilized to develop visualizations that provide a comprehensive view of the company's current status, highlighting the behavior of cities, stores, products, and their categories. 
 
 
 ### * Cities current status
@@ -23,7 +23,7 @@ We conducted extensive preprocessing to build the main dataset. This dataset wer
 <br><br>
 As we can see in the picture there are some slicers at the bottom so make easier to explore de data
 
-There are also Kpis that modify their values where we navigate through data
+There are also Kpis that modify their values where I navigate through data
 
 ### * Shops current status
 <br><br>
@@ -34,7 +34,7 @@ There are also Kpis that modify their values where we navigate through data
 <br><br>
 ![Alt text](utils/product_analysisII.png)
 <br><br>
-we tried to identify behavior of products before clustering
+I tried to identify behavior of products before clustering
 <br><br>
 
 ![Alt text](utils/product_analysis.png)
@@ -43,8 +43,8 @@ In this table we can see top 20 of best income products. Some of them arrived la
 
 ## Sprint 2: Clustering 
 
-We applied clustering techniques, specifically the K-means algorithm, to identify groups of similar products.
-In addition, we created clear and insightful visualizations that helped us better understand the behavior and composition of these clusters
+I applied clustering techniques, specifically the K-means algorithm, to identify groups of similar products.
+In addition, I created clear and insightful visualizations that helped us better understand the behavior and composition of these clusters
 
 
 ### * Cluster overview
@@ -72,7 +72,7 @@ Estrella Products: 88 products in this cluster have average prices and strong sa
 Premium Products: With very high prices and lower sales volumes, this group comprises fewer items but still generates €21.5M of the total revenue.
 
 ## Sprint 3: Predictive Modeling
-We developed a comprehensive visual report to highlight the key insights derived from our data analysis. After evaluating various forecasting models, including ARIMA and skforecast from Sklearn, we selected the most accurate and appropriate approach for the business. Using the chosen model, we implemented sales forecasts to support future planning.
+I developed a comprehensive visual report to highlight the key insights derived from our data analysis. After evaluating various forecasting models, including ARIMA and skforecast from Sklearn, we selected the most accurate and appropriate approach for the business. Using the chosen model, I implemented sales forecasts to support future planning.
 
 
 ### * Income forecasting
@@ -86,11 +86,11 @@ We developed a comprehensive visual report to highlight the key insights derived
 
 ## Results:
 
-Through this project, we achieved:
+Through this project, I achieved:
 
 Clear identification of well-defined product clusters, providing greater clarity on consumption trends.
 Accurate sales forecasts that enable efficient product supply planning.
-We crafted a storytelling narrative that clearly and effectively communicates the results, emphasizing their relevance for strategic decision-making in the company.
+I crafted a storytelling narrative that clearly and effectively communicates the results, emphasizing their relevance for strategic decision-making in the company.
 
  
 
