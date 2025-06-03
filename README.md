@@ -44,7 +44,7 @@ In this table we can see top 20 of best income products. Some of them arrived la
 ## Sprint 2: Clustering 
 
 I applied clustering techniques, specifically the K-means algorithm, to identify groups of similar products.
-In addition, I created clear and insightful visualizations that helped us better understand the behavior and composition of these clusters
+In addition, I created clear and insightful visualizations that helped me better to understand the behavior and composition of these clusters
 
 
 ### * Cluster overview
